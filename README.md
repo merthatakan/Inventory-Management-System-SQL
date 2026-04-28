@@ -1,7 +1,11 @@
 **Inventory Management System (SQL)**
+
+
 A relational small database project designed to manage warehouse operations, track stock movements, and generate business reports using MS SQL Server.
 
 **Core Components**
+
+
 •Schema: 4 interconnected tables (Products, Categories, Suppliers, Transactions) with full referential integrity.
 
 •Audit Trail: Automated logging for every stock entry (IN) and exit (OUT).
@@ -9,6 +13,8 @@ A relational small database project designed to manage warehouse operations, tra
 •Optimization: Strategic indexing for high-performance data retrieval.
 
 **Key Files**
+
+
 •schema.sql: Database structure and constraints.
 
 •seed_data.sql: Realistic test data for demonstration.
