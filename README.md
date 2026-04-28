@@ -27,4 +27,5 @@ A relational small database project designed to manage warehouse operations, tra
 Tech Stack
 
 Engine: Microsoft SQL Server
+
 Language: T-SQL
