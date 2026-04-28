@@ -21,6 +21,9 @@ A relational small database project designed to manage warehouse operations, tra
 
 •queries.sql: Analytical reports (Low stock alerts, inventory valuation).
 
+
+
+
 Tech Stack
 Engine: Microsoft SQL Server
 
