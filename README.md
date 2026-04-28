@@ -6,20 +6,20 @@ A relational small database project designed to manage warehouse operations, tra
 **Core Components**
 
 
-•Schema: 4 interconnected tables (Products, Categories, Suppliers, Transactions) with full referential integrity.
+•Schema:  4 interconnected tables (Products, Categories, Suppliers, Transactions) with full referential integrity.
 
-•Audit Trail: Automated logging for every stock entry (IN) and exit (OUT).
+•Audit Trail:  Automated logging for every stock entry (IN) and exit (OUT).
 
-•Optimization: Strategic indexing for high-performance data retrieval.
+•Optimization:  Strategic indexing for high-performance data retrieval.
 
 **Key Files**
 
 
-•schema.sql: Database structure and constraints.
+•schema.sql:  Database structure and constraints.
 
-•seed_data.sql: Realistic test data for demonstration.
+•seed_data.sql:  Realistic test data for demonstration.
 
-•queries.sql: Analytical reports (Low stock alerts, inventory valuation).
+•queries.sql:  Analytical reports (Low stock alerts, inventory valuation).
 
 
 
